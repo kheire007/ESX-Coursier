@@ -1,4 +1,5 @@
-# esx_coursier by Robin
+# esx_coursier by kheire007 inspired by ZAUB1/ESX-Pizza
+
 
 REQUIREMENTS : 
 - ES Extended : https://github.com/ESX-Org/es_extended
