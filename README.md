@@ -1,7 +1,7 @@
 # esx_coursier inspired by ZAUB1/ESX-Pizza
 
 
-[EN] colis delivery job for the ESX core
+[EN] package delivery job for the ESX core
 
 extra job
 
