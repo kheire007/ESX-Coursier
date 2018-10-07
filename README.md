@@ -5,7 +5,6 @@
 
 extra job
 
-This script belongs to me, you can modify it and use it as long as you mention me
 
 REQUIREMENTS :
 
