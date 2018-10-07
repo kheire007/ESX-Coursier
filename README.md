@@ -1,4 +1,4 @@
-# esx_coursier by kheire007 inspired by ZAUB1/ESX-Pizza
+# esx_coursier inspired by ZAUB1/ESX-Pizza
 
 
 REQUIREMENTS : 
