@@ -1,4 +1,4 @@
-# esx_coursier inspired by/ESX-Pizza
+# esx_coursier 
 
 
 [EN] package delivery job for the ESX core
